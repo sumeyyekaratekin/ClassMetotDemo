@@ -14,7 +14,7 @@ namespace ClassMetotDemo
         }
         public void List(Musteri m)
         {
-            Console.WriteLine("\nHesap Numarası: " + m.hesapNo + " Müşteri Adı:  " + m.ad + " " + m.soyad + " Müşteri Hesap Bakiyesi :" +m.bakiye +" (Müşteri bilgileri Listelendi)");
+            Console.WriteLine("\nHesap Numarası : " + m.hesapNo + " Müşteri Adı:  " + m.ad + " " + m.soyad + " Müşteri Hesap Bakiyesi :" +m.bakiye +" (Müşteri bilgileri Listelendi)");
         }
     }
 }
